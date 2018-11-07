@@ -5,6 +5,9 @@ A script to bruteforce instagram given a list named list.txt
 
 
 this script requires the following things
+
 python 3+
+
 selenium
+
 colorama
